@@ -1,0 +1,18 @@
+{
+  "homepage": "https://Andrae-Traz04.github.io/ArtShpereApp",
+  "name": "artsphere",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "eject": "react-scripts eject",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+},
+
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
