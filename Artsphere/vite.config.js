@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: "/ArtShpereApp"
+  base: "/ArtShpereApp/"  // this for GitHub Pages
 });
