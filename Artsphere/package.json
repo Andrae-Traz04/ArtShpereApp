@@ -3,7 +3,7 @@
   "name": "artsphere",
   "version": "0.0.1",
   "private": true,
-  "scripts": {
+"scripts": {
   "dev": "vite",
   "build": "vite build",
   "preview": "vite preview",
