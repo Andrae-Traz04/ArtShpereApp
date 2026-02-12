@@ -1,6 +1,6 @@
 {
+  "homepage": "https://Andrae-Traz04.github.io/ArtShpereApp",
   "name": "artsphere",
-  "homepage": "https://github.com/Andrae-Traz04/ArtSphere",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -8,7 +8,7 @@
   "build": "vite build",
   "preview": "vite preview",
   "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist"
+  "deploy": "gh-pages -d build"
 },
 
   "dependencies": {
